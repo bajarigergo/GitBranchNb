@@ -7,7 +7,7 @@ public class GitBranchNb {
     }
 
     private static void fv() {
-        System.out.println("Ez egy static függvény");
+        System.out.println("Ez static");
     }
     
 }
