@@ -9,5 +9,7 @@ public class GitBranchNb {
     private void fv() {
         System.out.println("Nem static függ");
     }
+    void eljaras(){
+    }
     
 }
